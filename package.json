@@ -1,7 +1,7 @@
 {
   "name": "express-poc",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/server.js",
   "author": "Muhamad Irham Prasetyo",
   "license": "MIT",
   "scripts": {
